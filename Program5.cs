@@ -22,7 +22,8 @@ namespace ConsoleApp5
 
             //Console.WriteLine($"Лыжник пробежит больше 20 км на {day}-й день.");
             //Console.ReadKey();
-
+            
+            // в какой день суммарный пробег за все дни превысит 100 км.
             //double dailyDistance = 10;
             //double totalDistance = 0;
             //double increaseRate = 0.1;
